@@ -1,0 +1,95 @@
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\bin\Debug\APIAPP_WIN.exe.config
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\bin\Debug\APIAPP_WIN.exe
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\bin\Debug\APIAPP_WIN.pdb
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csprojAssemblyReference.cache
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.Properties.Resources.resources
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.GenerateResource.cache
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.CoreCompileInputs.cache
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.exe
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.pdb
+C:\Users\treesukon.FORWARD\source\repos\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.Main.resources
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\bin\Debug\APIAPP_WIN.exe.config
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\bin\Debug\APIAPP_WIN.exe
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\bin\Debug\APIAPP_WIN.pdb
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csprojAssemblyReference.cache
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.Main.resources
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.Properties.Resources.resources
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.GenerateResource.cache
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.CoreCompileInputs.cache
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.exe
+D:\Customer\FMS\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.pdb
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\FMSPRDOC.exe.config
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\FMSPRDOC.exe
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\FMSPRDOC.pdb
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\BouncyCastle.Crypto.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\itextsharp.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\RestSharp.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Buffers.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Memory.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Numerics.Vectors.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Text.Encodings.Web.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Text.Json.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.ValueTuple.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\stdole.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\itextsharp.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\RestSharp.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Buffers.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Memory.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Numerics.Vectors.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Text.Encodings.Web.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Text.Json.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\System.ValueTuple.xml
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.FrmGENPDF.resources
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.Main.resources
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\FMSPRDOC.Properties.Resources.resources
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.GenerateResource.cache
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.CoreCompileInputs.cache
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.CopyComplete
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\FMSPRDOC.exe
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\FMSPRDOC.pdb
+D:\Customer\TPBS\202203TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csprojAssemblyReference.cache
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\FMSPRDOC.exe.config
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\FMSPRDOC.exe
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\FMSPRDOC.pdb
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\stdole.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\bin\Debug\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.FrmGENPDF.resources
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.Main.resources
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\FMSPRDOC.Properties.Resources.resources
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.GenerateResource.cache
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.CoreCompileInputs.cache
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\APIAPP_WIN.csproj.CopyComplete
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\FMSPRDOC.exe
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\FMSPRDOC.pdb
+D:\Customer\TPBS\202205TPBS\PR DOC API\APIAPP_WIN\APIAPP_WIN\obj\Debug\FMSPRDOC.FrmLogin.resources
